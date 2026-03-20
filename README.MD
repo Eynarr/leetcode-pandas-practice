@@ -1,6 +1,6 @@
 # 🐼 Leetcode Pandas Practice
 
-This repository contains my solutions to selected problems from the "30 Days of Pandas" track on LeetCode.
+This repository contains my solutions to various coding problems from the "30 Days of Pandas" track on LeetCode.
 
 ## 📌 Goal
 
