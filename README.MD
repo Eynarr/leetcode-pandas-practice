@@ -1,6 +1,6 @@
 # 🐼 Leetcode Pandas Practice
 
-This repository contains my solutions to various coding problems from the "30 Days of Pandas" track on LeetCode.
+This repository contains my solutions to various LeetCode problems, focusing on data manipulation and analysis using pandas.
 
 ## 📌 Goal
 
@@ -12,4 +12,4 @@ Practice data manipulation, transformation, and analysis using pandas.
 
 ## 🚀 Progress
 
-This repository is updated as I solve more problems.
+This repository is continuously updated as I solve new problems and improve my skills.
